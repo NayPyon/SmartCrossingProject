@@ -17,7 +17,7 @@ This system not only runs a normal traffic light cycle but also features an inte
 
 ## How to Run the Simulation
 1.  Open the `.pdsprj` file in Proteus.
-2.  [cite_start]Compile the `.ino` file [cite: 4-54] in the Arduino IDE.
+2.  Compile the `.ino` file in the Arduino IDE.
 3.  Copy the `.hex` file path from the compilation output.
 4.  Double-click the Arduino component in Proteus and paste the `.hex` path into the "Program File" field.
 5.  Run the simulation.
