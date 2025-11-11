@@ -11,7 +11,7 @@ This system not only runs a normal traffic light cycle but also features an inte
 * **Non-Blocking Code:** The entire system, including the LCD countdown and buzzer, uses `millis()` to remain responsive.
 
 ## Technologies Used
-* [cite_start]**Language:** C++ (Arduino) [cite: 4-54]
+* **Language:** C++ (Arduino)
 * **Simulation Software:** Proteus
 * **Main Components:** Arduino Uno, 16x2 I2C LCD, Buzzer, LEDs, Push Button.
 
